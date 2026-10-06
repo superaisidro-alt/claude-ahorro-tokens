@@ -5,7 +5,7 @@ Lo que uso para no quedarme sin tokens en Claude Code. Dos skills, dos plantilla
 ## Instalar
 
 ```sh
-git clone <este repo>
+git clone https://github.com/superaisidro-alt/claude-ahorro-tokens
 cd claude-ahorro-tokens
 ```
 
